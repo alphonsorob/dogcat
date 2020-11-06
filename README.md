@@ -1,1 +1,1 @@
-# dogcat
+# dogcat image classifier using basic cnn
